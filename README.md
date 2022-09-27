@@ -1,6 +1,8 @@
 # NLP-EDA
 EDA done on IMDB dataset from Hugging Face
 
+I chose this data as it looked interesting and most relatable.
+Below are the steps:
 1. Installed datasets using the following command in python from Jupyter Notebook
  "pip install datasets"
 2. Inspected the dataset using dataset_builder
